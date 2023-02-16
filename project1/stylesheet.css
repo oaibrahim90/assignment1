@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.navigation{
+   
+    background-color: plum;
+    flex: 1;
+    display: flex;
+     justify-content: space-between;
+   
+}
+
+
+#logo{
+ display: flex;
+ height: 100px;
+width: 150px;
+
+}
+.part1{
+    display: flex;
+   
+
+}
+.part2{
+
+}
+.part3{
+
+}
+.part4{
+
+}
+.footer{
+
+}
+ul{
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+}
+
+em,q{
+    padding: 10px;
+    align-self: center;
+}
